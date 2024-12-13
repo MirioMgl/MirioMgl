@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MirioMgl
+- 👋 Hi, I’m Andrea
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Excel
+- 🌱 I’m proficient in Excel, SQL, Power BI, R
 - 💞️ I’m looking to collaborate on Data analysis projects
 - ⚡ Fun fact: I'm fluent in 4 languages
 
